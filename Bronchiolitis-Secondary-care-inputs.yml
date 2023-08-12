@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/bronchiolitis-secondary-care-virus---secondary.py
+inputModule3:
+  class: File
+  path: python/bronchiolitis-secondary-care-unspecified---secondary.py
+inputModule4:
+  class: File
+  path: python/acute-bronchiolitis-secondary-care---secondary.py
+inputModule5:
+  class: File
+  path: python/bronchiolitis-secondary-care-metapneumovirus---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
